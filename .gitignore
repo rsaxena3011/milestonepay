@@ -1,0 +1,14 @@
+# Credentials — never commit
+.env
+.env.*
+
+# Audit logs (session data, regenerated at runtime)
+webhook_audit.jsonl
+webhook_audit_test.jsonl
+agent_audit.jsonl
+*.jsonl.tmp
+
+# Session scratch
+.webhook_id.tmp
+__pycache__/
+*.pyc

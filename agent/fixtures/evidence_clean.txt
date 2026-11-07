@@ -1,0 +1,13 @@
+Delivery note — Meridian Studios project
+
+Client: Meridian Studios
+Client email: accounts@meridianstudios.example
+Milestone 2: Homepage redesign and launch
+
+Work completed this week:
+- Delivered final homepage design files (Figma + exported assets)
+- Built and deployed the new homepage to staging
+- Client reviewed and approved the staging build on call, 4 Nov
+
+Amount due for this milestone: USD 2,500.00
+Payment terms: Net 30
